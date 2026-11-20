@@ -18,12 +18,11 @@ To enhance your learning experience, 2Jam stores certain data locally on your de
 **In-App Purchases**
 2Jam offers premium features and subscriptions through in-app purchases. All payment transactions are securely processed and handled directly by Apple's App Store via StoreKit. We do not collect, process, or have access to your credit card details or billing information. 
 
-**Third-Party Services and Advertising**
-The app uses third-party services that may collect information used to identify you for advertising purposes. We use **Google AdMob** to display advertisements in the free version of the app. AdMob may collect and use data such as your device's advertising ID, IP address, and usage data to provide personalized and non-personalized ads.
-* Link to [Google's Privacy Policy](https://policies.google.com/privacy)
+**Advertising and Tracking**
+Version 1.1.6 and later of 2Jam contains no advertising and does not track you. It does not use Google AdMob, does not ask for App Tracking Transparency permission, and does not collect advertising identifiers.
 
-#### App Tracking Transparency
-For users on iOS 14.5 and later, we will ask for your permission to track your activity across other companies' apps and websites to deliver personalized advertisements via Google AdMob. If you decline this permission, you will still see ads, but they may be less relevant to your interests. You can manage these permissions at any time in your device's Settings.
+*Earlier versions (1.1.5 and earlier):* the free version displayed advertisements through **Google AdMob**. AdMob may collect and use data such as your device's advertising ID, IP address, and usage data to provide personalized and non-personalized ads, and those versions asked for your permission under App Tracking Transparency on iOS 14.5 and later. You can manage that permission at any time in your device's Settings.
+* Link to [Google's Privacy Policy](https://policies.google.com/privacy)
 
 #### Your Data Protection Rights
 Depending on your location (such as under GDPR, CCPA, or KVKK), you may have certain rights regarding your personal information, including the right to access, update, or delete the data we have on you. Since 2Jam stores your progress (such as streaks and training data) locally on your device, you have full control over this data. You can delete it at any time by uninstalling the app or clearing the app's data in your device settings.
@@ -40,7 +39,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 #### Changes to This Privacy Policy
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2026-02-22.
+This policy is effective as of 2026-11-20.
 
 #### Contact Us
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at **tunahanyellow@gmail.com**.
